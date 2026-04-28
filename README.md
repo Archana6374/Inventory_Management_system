@@ -10,3 +10,5 @@ or
 run the main.java file by clicking run in the top tool bar in your IDE.
 
 The approach used here is done by separating the modules into well defined classes(entites) that allows the project to include abstraction,encapsulation and ingeritance in the project.
+
+Here the module for the warehouse staff is completed successfully but the other module for stock movement management is still under development.
